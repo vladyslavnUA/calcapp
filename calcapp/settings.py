@@ -25,7 +25,7 @@ SECRET_KEY = 'o-4(z)9-%b)i9pu_w3mm2tyn1^d8-alcgh@#c-4#ozu#s+m*yx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vcalcapp.herokuapp.com']
 
 
 # Application definition
